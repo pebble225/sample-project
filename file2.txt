@@ -1,2 +1,8 @@
 And this is file 2
+and here's a line
+and thar's another line
+and one more
+and another
+and another
+and more
 
